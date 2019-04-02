@@ -16,3 +16,4 @@ dont on met nomcomptegithub/nomtheme
 et dans l'assets on a les import des fichiers defini dans le sass
 
 *les differents fichiers qui representent les pages sont cree dans notres repo de site avec l'extension markdown
+*nb:pour commit et voir un changemnt il faut modiffier le fichier 
